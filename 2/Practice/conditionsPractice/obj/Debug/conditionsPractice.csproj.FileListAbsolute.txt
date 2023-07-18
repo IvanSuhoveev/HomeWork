@@ -12,3 +12,11 @@ C:\Users\TotaL\Desktop\121212\Проект 3-го занятия\conditionsPract
 D:\Для меня установить\Рабочий стол\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
 D:\Для меня установить\Рабочий стол\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
 D:\Для меня установить\Рабочий стол\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\bin\Debug\conditionsPractice.exe.config
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\bin\Debug\conditionsPractice.exe
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\bin\Debug\conditionsPractice.pdb
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\obj\Debug\conditionsPractice.exe
+C:\GitHabProject\HomeWork\2\Practice\conditionsPractice\obj\Debug\conditionsPractice.pdb

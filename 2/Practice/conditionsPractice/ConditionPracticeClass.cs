@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics.Eventing.Reader;
 using System.Linq;
+using System.Text.RegularExpressions;
 
 namespace conditionsPractice
 {
@@ -47,16 +48,27 @@ namespace conditionsPractice
         /* TODO: Performs the specified arithmetic operation (char input paramether) on two double input paramethers and returns the result. */
         public static double PerformOperation(char operation, double number1, double number2)
         {
-            string _operation = operation.ToString();
-            if (_operation == "add")
-                return number1 + number2;
-            else if (_operation == "substract")
-                return number1 - number2;
-            else if (_operation == "devide")
-                return number1 / number2;
-            else if (_operation == "multiply")
-                return number1 * number2;
-            else return 000000;
+            Double result = 0;
+
+            switch (operation)
+            {
+                case '+':
+                    result = number1 + number2;
+                    break;
+                case '-':
+                    result = number1 - number2;
+                    break;
+                case '*':
+                    result = number1 - number2;
+                    break;
+                case '/':
+                    result = number1 - number2;
+                    break;
+                default:
+                    Console.WriteLine("Неизвестная операция");
+                    break;
+            }
+            return result;
         }
 
 
@@ -81,32 +93,50 @@ namespace conditionsPractice
         /* TODO: Receives a string as input and returns true if the string is a palindrome, false otherwise. */
         public static bool IsPalindrome(string input)
         {
-            string input1 = input;
-            string input2 = (string)input.Reverse(); 
-            if (input == input.Reverse
-            {
-                return true;
-            }
-            return false;
+            input = input.ToLower();
+            string reverced = new string(input.Reverse().ToArray());
+
+            return input == reverced;
         }
 
         /* TODO: Receives a int year as input paramether and returns true if the year is a leap year, false otherwise. */
         public static bool IsLeapYear(int year)
         {
-            throw new NotImplementedException();
+            if ((year % 4) == 0)
+                return false;
+
+            if ((year % 100) == 0)
+                return true;
+
+            if (year % 400 == 0)
+                return true;
+
+            return false;
+            
         }
+            
 
 
         /* TODO: Receives a character as input and returns true if the character is a vowel, false otherwise. */
         public static bool IsVowel(char character)
         {
-            throw new NotImplementedException();
+            char lowerChar = char.ToLower(character);
+            return lowerChar == 'a' || lowerChar == 'e' || lowerChar == 'i' || lowerChar == 'o' || lowerChar == 'u';
         }
 
         /* TODO: Converts a binary number represented as a string to its integer equivalent. */
         public static int BinaryToDecimal(string binaryNumber)
         {
-            throw new NotImplementedException();
+            int resultNumber = 0;
+            int power = 0;
+            
+            for (int i = binaryNumber.Length - 1; i >= 0; i--)
+            {
+                int digit = binaryNumber[i] - '0';
+                resultNumber += digit * (int) Math.Pow(2, power);
+                power++;
+            }
+            return resultNumber;
         }
 
         /* TODO: Converts a binary number represented as a string to its hexadecimal string equivalent. */
