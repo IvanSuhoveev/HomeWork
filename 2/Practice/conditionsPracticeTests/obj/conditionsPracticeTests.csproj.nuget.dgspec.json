@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj": {}
+    "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPracticeTests\\conditionsPracticeTests.csproj": {}
   },
   "projects": {
-    "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj": {
+    "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPracticeTests\\conditionsPracticeTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
+        "projectUniqueName": "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
         "projectName": "conditionsPracticeTests",
-        "projectPath": "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
+        "projectPath": "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPracticeTests\\conditionsPracticeTests.csproj",
         "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPracticeTests\\obj\\",
+        "outputPath": "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPracticeTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj": {
-                "projectPath": "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj"
+              "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPractice\\conditionsPractice.csproj": {
+                "projectPath": "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPractice\\conditionsPractice.csproj"
               }
             }
           }
@@ -89,11 +89,11 @@
         }
       }
     },
-    "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj": {
+    "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPractice\\conditionsPractice.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj",
+        "projectUniqueName": "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPractice\\conditionsPractice.csproj",
         "projectName": "conditionsPractice",
-        "projectPath": "D:\\Для меня установить\\Рабочий стол\\121212\\Проект 3-го занятия\\conditionsPracticeEmpty\\conditionsPractice\\conditionsPractice.csproj",
+        "projectPath": "C:\\GitHabProject\\HomeWork\\2\\Practice\\conditionsPractice\\conditionsPractice.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
