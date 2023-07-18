@@ -1,0 +1,14 @@
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.exe.config
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.exe
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\bin\Debug\conditionsPractice.pdb
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.exe
+C:\Users\Назар\source\repos\conditionsPractice\conditionsPractice\obj\Debug\conditionsPractice.pdb
+C:\Users\TotaL\Desktop\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+C:\Users\TotaL\Desktop\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\TotaL\Desktop\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
+D:\Для меня установить\Рабочий стол\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.AssemblyReference.cache
+D:\Для меня установить\Рабочий стол\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.SuggestedBindingRedirects.cache
+D:\Для меня установить\Рабочий стол\121212\Проект 3-го занятия\conditionsPracticeEmpty\conditionsPractice\obj\Debug\conditionsPractice.csproj.CoreCompileInputs.cache
